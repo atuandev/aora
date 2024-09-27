@@ -1,5 +1,6 @@
 import { Tabs } from 'expo-router'
-import { View, Text, Image } from 'react-native'
+import { Image, Text, View } from 'react-native'
+
 import { icons } from '../../constants'
 
 type TabIconProps = {
